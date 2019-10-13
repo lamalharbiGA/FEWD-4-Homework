@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 70%;  
+    text-align: center;
+  } 
+  
+  th,td {
+    border: 2px solid black;
+  }
+  #trcolor
+  {
+      background-color: antiquewhite;
+      
+  }
+  caption
+  {
+      font-size: 40px;
+  }
+  span
+  {
+      color: brown;
+  }
+  .numtd
+  {
+      color: darkgoldenrod;
+    
+  }
+  th
+  {
+    padding: 5px;
+  }

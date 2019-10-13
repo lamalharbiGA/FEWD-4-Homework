@@ -1,0 +1,115 @@
+.hp-issue-index {
+  text-decoration: underline;
+  font-family:  Tahoma;
+  background-color: azure;
+  color: rgb(121, 101, 101);
+  padding: 5px;
+  text-align: center;
+}
+
+ul .hp-issue-article-list {
+  color: red;
+  
+}
+
+
+h3,h4{
+  color: burlywood;
+}
+
+
+h2{
+  color: rgb(121, 101, 101);
+  text-align: center;
+
+}
+
+body{
+  margin: 5;
+  
+
+}
+
+
+main
+{
+  margin-bottom: 30;
+  margin-top: 20;
+  margin-left: 70;
+}
+.hp-news-block-container-1
+{
+  background-color:beige;
+  text-align: center;
+  
+}
+.hp-news-block-container-2
+{
+  background-color:beige;
+  
+}
+.hp-news-block-container-3
+{
+  background-color:beige;
+}
+
+/*  change the location of image using  table  */
+/*
+.column {
+  float: right;
+  width: 50%;
+  height: 80%;
+
+}
+
+/* Clear floats after the columns 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  height: 50%;
+}
+*/
+
+.column1 {
+  float: left;
+  width: 50%;
+  height: 80%;
+
+}
+
+/* Clear floats after the columns */
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+  height: 50%;
+}
+
+span.c1,span.c2,span.c3
+{
+color:
+brown;
+}
+
+/*  Using another way to change the location of image */
+.imagess1
+{
+ float: right; 
+ 
+ 
+}
+.clearfix
+{
+  overflow: auto;
+}
+
+
+.imagess3
+{
+  float: right; 
+}
+.clearfix2
+{
+  overflow: auto;
+}
